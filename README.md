@@ -7,7 +7,7 @@ This project demonstrates how predictive analytics can support Quality Engineeri
 
 ## Deliverables
 
-### 🧾 Jupyter Notebook
+### 🧾 [Jupyter Notebook](https://github.com/gvo27/predictive-maintenance/blob/main/main.ipynb)
 
 Step-by-step data exploration, preprocessing, and model training.
 
@@ -18,14 +18,14 @@ Includes confusion matrix, per-class metrics, feature importance analysis, and R
 Interprets feature drivers (e.g., Torque, Tool Wear, Temperature Delta) in the context of root cause analysis.
 
 
-### 🧾 PowerPoint 
+### 🧾 [PowerPoint](https://github.com/gvo27/predictive-maintenance/blob/main/Quality_Model_Report.pptx)
 
 Model performance, key predictors, and stakeholder significance.
 
 Quality Clinic triage, MRB coordination, and Supplier Quality discussions.
 
 
-### 🧾 Predicted NCR Simulation 
+### 🧾 [Predicted NCR Simulation](https://github.com/gvo27/predictive-maintenance/blob/main/predicted_ncr_simulation.csv)
 
 CSV output mapping predicted failure type → recommended disposition action.
 
